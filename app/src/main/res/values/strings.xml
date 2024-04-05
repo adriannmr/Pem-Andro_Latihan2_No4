@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Adrian Maulana</string>
+    <string name="business">Android Developer Extraordinaire</string>
+    <string name="phone_number">+62 812-10573547</string>
+    <string name="share_text"> @AndroidDev </string>
+    <string name="email_text">adrian.10121078@unikom.ac.id</string>
+</resources>
